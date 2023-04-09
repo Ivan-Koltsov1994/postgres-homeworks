@@ -1,5 +1,4 @@
 -- SQL-команды для создания таблиц
-
 create table employees
 (
   employee_id serial PRIMARY KEY,
